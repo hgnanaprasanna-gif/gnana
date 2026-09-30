@@ -1,0 +1,35 @@
+{
+  "title": "General Knowledge & Programming Quiz",
+  "questions": [
+    {
+      "prompt": "What is the capital of France?",
+      "options": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+      "answer": "C",
+      "explanation": "Paris is the capital and largest city of France."
+    },
+    {
+      "prompt": "Which programming language is known as the language of the web?",
+      "options": ["A. Python", "B. JavaScript", "C. C++", "D. Java"],
+      "answer": "B",
+      "explanation": "JavaScript is native to web browsers and widely used for web development."
+    },
+    {
+      "prompt": "What does CPU stand for?",
+      "options": ["A. Central Processing Unit", "B. Computer Personal Unit", "C. Central Power Unit", "D. Control Processing Unit"],
+      "answer": "A",
+      "explanation": "CPU stands for Central Processing Unit."
+    },
+    {
+      "prompt": "In Python, which keyword is used to define a function?",
+      "options": ["A. func", "B. define", "C. def", "D. function"],
+      "answer": "C",
+      "explanation": "'def' is the keyword used to define functions in Python."
+    },
+    {
+      "prompt": "What is 2 + 2 * 2?",
+      "options": ["A. 6", "B. 8", "C. 4", "D. 10"],
+      "answer": "A",
+      "explanation": "According to order of operations (PEMDAS/BODMAS), multiplication is performed first: 2 + (2 * 2) = 6."
+    }
+  ]
+}
